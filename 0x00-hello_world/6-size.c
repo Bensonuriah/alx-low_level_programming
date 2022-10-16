@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
-*main -  Program that prints size of data types
+* main -  Program that prints size of data types
 *
 * Returns: Awalys 0
 */
