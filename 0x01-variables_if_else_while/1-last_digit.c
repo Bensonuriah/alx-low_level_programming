@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - program that prints the status of the last digit number
- *Return: return 0
- */
+*main - program that prints the status of the last digit number
+*Return: return 0
+*/
 int main(void)
 {
 int n, lastNumber;
