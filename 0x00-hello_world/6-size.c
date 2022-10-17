@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
-* main -  Program that prints size of data types
+*main - program that print size of data types
 *
-* Returns: Awalys 0
+* Return: Always 0
 */
 int main(void)
 {
