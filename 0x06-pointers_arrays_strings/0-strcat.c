@@ -2,20 +2,14 @@
 #include <string.h>
 
 /**
- * main - function that concatenates two strings.
- *
- * appends src
- * appends dest
- * Return: a concatenates string
- *
- */
+*_strcat - concatenates two strings
+**@dest: pointer to char
+**@src: pointer to char
+*Return: concantinated pointer string
+*/
 
 char *_strcat(char *dest, char *src)
-
- {
-	strcat (dest, src);
+{
+	strcat(dest, src);
 	return (dest);
-
- } 
-
-
+}
