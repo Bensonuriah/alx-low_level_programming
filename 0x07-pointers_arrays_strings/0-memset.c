@@ -1,12 +1,12 @@
 #include "main.h"
-
 /**
- *_memset:is used to fill a block of memory with a particular value
- *@b:The constant to be filled in the memory.
- *@n:The number of bytes to set.
- *@s:The pointer.
- *Return:A pointer to the filled memory area @s
- */
+*_memset - Fills n bytes of memory area pointed to with constant byte c
+*@s:A pointer to the memory area to be filled.
+*@b:The character to fill the memory area with.
+*@n:The number of bytes to be filled.
+*
+*Return: A pointer to the filled memory area @s.
+*/
 	char *_memset(char *s, char b, unsigned int n)
 {
 	unsigned int i;
