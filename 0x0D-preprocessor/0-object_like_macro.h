@@ -1,3 +1,3 @@
-#ifndef SIZE
+#include <stddef.h>
 #define SIZE 1024
-#endif
+
